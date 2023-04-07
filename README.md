@@ -1,7 +1,7 @@
 # random2dData
 
-For Frontend- Go to frontend folder and run npm start in terminal
-For Backend- Go to backend folder and run npm start in terminal
+For Frontend- Go to frontend folder and run npm start in terminal.
+For Backend- Go to backend folder and run npm start in terminal.
 
 
 As a part of requirement, Frontend show a tag control looks like matrix of 3x3
