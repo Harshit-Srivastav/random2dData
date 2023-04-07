@@ -11,8 +11,10 @@ const app = express()
 app.use(cors())
 
 app.get('/api/get-countries-tags', (req, res) => {
-   
     try {
+    // generateMatrix - Function use to Generate a Random 2d Array
+    // calculateRank - Function use to Calculate count consecutive occurence of a country
+     // checkRank - Function use to check rank 
     let matrix = generateMatrix(arrayOfCountries)
     let ranks = calculateRank(matrix)
     let rank = checkRank(ranks)
