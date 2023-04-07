@@ -1,3 +1,4 @@
+// Checking the rank of each country on behalf of if it is greater than or equal to 2
 const checkRank = (ranks) => {
     ranks['India'] = ranks['India'] >= 2 ? ranks['India']: undefined
     ranks['Germany'] = ranks['Germany'] >= 2 ? ranks['Germany']: undefined
