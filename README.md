@@ -3,7 +3,7 @@ The frontend of the project is built using React.js and backend using Node.js.
 
 For Frontend- Go to frontend folder and run npm start in terminal.
 
-For Backend- Go to backend folder and run npm start in terminal.
+For Backend- Go to backend folder and run npm start or npm run dev in terminal.
 
 
 As a part of requirement, Frontend show a tag control looks like matrix of 3x3
