@@ -1,3 +1,5 @@
+// Generating a 2d Array with Array Constructor
+// Making it Dynamic by using Math.random() method
 const generateMatrix = (arr) => {  
     let rows = 3
     let cols = 3

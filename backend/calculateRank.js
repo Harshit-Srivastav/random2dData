@@ -1,3 +1,4 @@
+// Calculating the consecutive occurence of each country . Here matrix represents 2d Array
 const calculateRank = (matrix) => {
     const ranks = { India: 0, Nepal: 0, Germany: 0, Finland: 0 }
     for (let i = 0; i < matrix.length; i++) {
