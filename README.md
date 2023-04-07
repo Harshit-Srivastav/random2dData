@@ -1,6 +1,8 @@
 # random2dData
+The frontend of the project is built using React.js and backend using Node.js.
 
 For Frontend- Go to frontend folder and run npm start in terminal.
+
 For Backend- Go to backend folder and run npm start in terminal.
 
 
